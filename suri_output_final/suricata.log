@@ -1,0 +1,18 @@
+31/7/2025 -- 16:12:08 - <Notice> - This is Suricata version 6.0.4 RELEASE running in USER mode
+31/7/2025 -- 16:12:08 - <Info> - CPUs/cores online: 4
+31/7/2025 -- 16:12:08 - <Info> - fast output device (regular) initialized: fast.log
+31/7/2025 -- 16:12:08 - <Info> - eve-log output device (regular) initialized: eve.json
+31/7/2025 -- 16:12:08 - <Info> - stats output device (regular) initialized: stats.log
+31/7/2025 -- 16:12:19 - <Info> - 1 rule files processed. 44543 rules successfully loaded, 0 rules failed
+31/7/2025 -- 16:12:19 - <Info> - Threshold config parsed: 0 rule(s) found
+31/7/2025 -- 16:12:20 - <Info> - 44546 signatures processed. 951 are IP-only rules, 5114 are inspecting packet payload, 38272 inspect application layer, 108 are decoder event only
+31/7/2025 -- 16:13:30 - <Info> - Using unix socket file '/var/run/suricata-command.socket'
+31/7/2025 -- 16:13:30 - <Notice> - all 5 packet processing threads, 4 management threads initialized, engine started.
+31/7/2025 -- 16:13:30 - <Info> - Starting file run for 2025-01-22-traffic-analysis-exercise.pcap
+31/7/2025 -- 16:13:30 - <Info> - No packets with invalid checksum, assuming checksum offloading is NOT used
+31/7/2025 -- 16:13:31 - <Info> - pcap file 2025-01-22-traffic-analysis-exercise.pcap end of file reached (pcap err code 0)
+31/7/2025 -- 16:13:31 - <Notice> - Signal Received.  Stopping engine.
+31/7/2025 -- 16:13:31 - <Info> - time elapsed 0.396s
+31/7/2025 -- 16:13:31 - <Notice> - Pcap-file module read 1 files, 39427 packets, 26128819 bytes
+31/7/2025 -- 16:13:31 - <Info> - Alerts: 20
+31/7/2025 -- 16:13:31 - <Info> - cleaning up signature grouping structure... complete
